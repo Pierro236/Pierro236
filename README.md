@@ -1,6 +1,6 @@
 
 
-<img src="[drawing.jpg](https://user-images.githubusercontent.com/93871665/177533142-ea853834-4116-460b-9a41-02f99fc46b47.gif)" alt="drawing" style="width:200px;height:200px;"/>
+<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://www.canva.com/design/DAFFou4bqf8/cnmMEyLUiQz4F781NsO8PQ/watch?utm_content=DAFFou4bqf8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)" width="40" height="40" />
 
 - 👋 Salut je suis Pierre
 - 👀 J'aime beaucoup la programmation 
