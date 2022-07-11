@@ -2,13 +2,14 @@
 <h3 align="center">An engineering school student passionated by Developpement</h3>
 
 
--🔭 I’m currently working on **MyOffice**
 
--🌱 I’m currently learning **ReactJs and NodeJS**
+🔭 I’m currently working on **MyOffice**
 
--📚 I study at ISEP Paris.
+🌱 I’m currently learning **ReactJs and NodeJS**
 
--📫 How to reach me **pierresedo@gmail.com**
+📚 I study at ISEP Paris.
+
+📫 How to reach me **pierresedo@gmail.com**
 
 
 
