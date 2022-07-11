@@ -1,7 +1,3 @@
-
-
-<img src="pierresedo.gif" width="250" height="250" />
-
 - 👋 Salut je suis Pierre
 - 👀 J'aime beaucoup la programmation 
 - 🌱 J'apprends actuellement le Javascript.
