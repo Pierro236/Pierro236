@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pierre Sedo</h1>
 <h3 align="center">An engineering school student passionated by Developpement</h3>
 
+<img align="left" src="10_coding_dribbble.gif" alt="coding" width="500" height="300"/>
+
 
 
 🔭 I’m currently working on **MyOffice**
